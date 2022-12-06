@@ -14,7 +14,7 @@ CVC4=cvc4-unstable
 STP=stp-git-basic
 SWORD=SWORD-1.1
 YICES2=yices-2.5.1
-Z3=Z3-4.4.1
+Z3=Z3-4.9.0
 
 MINISAT=minisat-git
 LINGELING=lingeling-ayv-86bf266-140429
