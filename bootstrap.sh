@@ -4,7 +4,7 @@ SRC_DIR=$( cd $(dirname $0) && pwd)
 BUILD_DIR=$PWD/build
 DEPS=$PWD/deps
 
-BOOST=boost-1_55_0-fs
+BOOST=boost-1_70_0-fs
 
 GLOG=glog-git-0.3.3
 SYSTEMC=systemc-2.3.1
@@ -14,7 +14,7 @@ CVC4=cvc4-unstable
 STP=stp-git-basic
 SWORD=SWORD-1.1
 YICES2=yices-2.5.1
-Z3=Z3-4.9.0
+Z3=Z3-4.8.4
 
 MINISAT=minisat-git
 LINGELING=lingeling-ayv-86bf266-140429

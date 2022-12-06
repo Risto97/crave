@@ -1,6 +1,7 @@
 [submodule "dependencies"]
 	path = dependencies
-	url = https://github.com/agra-uni-bremen/dependencies.git
+	url = https://github.com/Risto97/dependencies.git
+    branch = development
 [submodule "examples"]
 	path = examples
 	url = https://github.com/hoangmle/crave-examples.git
