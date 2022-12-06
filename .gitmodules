@@ -8,3 +8,4 @@
 [submodule "metaSMT"]
 	path = metaSMT
 	url = https://github.com/hoangmle/metaSMT.git
+    branch = fixed
